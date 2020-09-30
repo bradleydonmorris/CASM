@@ -1,3 +1,3 @@
 # CASM
 Computer Assisted Search Management
-![alt text](/image.jpg?raw=true)
+![alt text](CASMStatus.png?raw=true)
